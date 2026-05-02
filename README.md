@@ -8,8 +8,7 @@
     - Evaluate sales performance across different locations to identify high and under-performing regions
     - Examine sales trend over time in order to figure out overall revenue patterns and anomalities
     - Analyze how pricing affects sales performance using pricing, quantity and total revenue relationship
-    - Assess relationship between product demand and revenue generation to identify underpriced products
-
+    
 ## Dataset
     The dataset contains sales records including:
     - Date
@@ -30,7 +29,6 @@
     - Which locations generate the highest revenue and which are under-performing
     - Product performance versus pricing
     - How does sales change over time
-    - How does demand change over time
      
  ## Insights
     Under review
