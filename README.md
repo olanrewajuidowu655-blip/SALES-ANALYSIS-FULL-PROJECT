@@ -35,3 +35,7 @@
 
 ## Dashboard (Power BI)
     Under review
+    
+## SQL  Analysis
+    [SALES DATA ANALYSIS.SQL](./SALES%20DATA%20ANALYSIS.sql)
+    
