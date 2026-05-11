@@ -1,4 +1,4 @@
-# SALES-ANALYSIS-FULL-PROJECT
+# sales_analysis_full_project
 
 ## PROJECT OVERVIEW
     This project analyzes short-term sales analysis activity over a 6-month period to derive actionable insights from sales data, that support data-driven decision-making in pricing, inventory management, and market expansion.
