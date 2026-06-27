@@ -1,9 +1,9 @@
 # sales_analysis_full_project
 
-## PROJECT OVERVIEW
+## Project Overview
     This project analyzes short-term sales analysis activity over a 6-month period to derive actionable insights from sales data, that support data-driven decision-making in pricing, inventory management, and market expansion.
 
-## Objectives
+## Business Objectives
     - Identify products that contribute to the highests share of total revenue 
     - Evaluate sales performance across different locations to identify high and under-performing regions
     - Examine sales trend over time in order to figure out overall revenue patterns and anomalities
